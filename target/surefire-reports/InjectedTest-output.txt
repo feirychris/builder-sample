@@ -1,0 +1,67 @@
+Running tests for org.jenkins-ci.plugins:web-page:1.0-SNAPSHOT
+Sep 11, 2020 3:06:43 PM org.eclipse.jetty.util.log.Log initialized
+INFO: Logging initialized @609ms to org.eclipse.jetty.util.log.Slf4jLog
+Sep 11, 2020 3:06:44 PM org.jvnet.hudson.test.WarExploder explode
+INFO: Exploding C:\Softs\.m2\repository\org\jenkins-ci\main\jenkins-war\2.235.5\jenkins-war-2.235.5.war into C:\Workspace\web-page\target\jenkins-for-test
+Sep 11, 2020 3:06:48 PM org.eclipse.jetty.server.handler.ContextHandler setContextPath
+WARNING: Empty contextPath
+Sep 11, 2020 3:06:48 PM org.eclipse.jetty.server.Server doStart
+INFO: jetty-9.4.28.v20200408; built: 2020-04-08T17:49:39.557Z; git: ab228fde9e55e9164c738d7fa121f8ac5acd51c9; jvm 11.0.8+10-LTS
+Sep 11, 2020 3:06:48 PM org.eclipse.jetty.webapp.StandardDescriptorProcessor visitServlet
+INFO: NO JSP Support for /, did not find org.eclipse.jetty.jsp.JettyJspServlet
+Sep 11, 2020 3:06:49 PM org.eclipse.jetty.server.session.DefaultSessionIdManager doStart
+INFO: DefaultSessionIdManager workerName=node0
+Sep 11, 2020 3:06:49 PM org.eclipse.jetty.server.session.DefaultSessionIdManager doStart
+INFO: No SessionScavenger set, using defaults
+Sep 11, 2020 3:06:49 PM org.eclipse.jetty.server.session.HouseKeeper startScavenging
+INFO: node0 Scavenging every 600000ms
+Sep 11, 2020 3:06:49 PM org.eclipse.jetty.server.handler.ContextHandler doStart
+INFO: Started o.e.j.w.WebAppContext@294bdeb4{Jenkins v2.235.5,/,file:///C:/Workspace/web-page/target/jenkins-for-test/,AVAILABLE}{C:\Workspace\web-page\target\jenkins-for-test}
+Sep 11, 2020 3:06:49 PM org.eclipse.jetty.server.AbstractConnector doStart
+INFO: Started ServerConnector@3c1e3314{HTTP/1.1, (http/1.1)}{localhost:58261}
+Sep 11, 2020 3:06:49 PM org.eclipse.jetty.server.Server doStart
+INFO: Started @6005ms
+Sep 11, 2020 3:06:49 PM jenkins.InitReactorRunner$1 onAttained
+INFO: Started initialization
+Sep 11, 2020 3:06:49 PM jenkins.InitReactorRunner$1 onAttained
+INFO: Listed all plugins
+Sep 11, 2020 3:06:50 PM jenkins.InitReactorRunner$1 onAttained
+INFO: Prepared all plugins
+Sep 11, 2020 3:06:50 PM jenkins.InitReactorRunner$1 onAttained
+INFO: Started all plugins
+Sep 11, 2020 3:06:50 PM jenkins.InitReactorRunner$1 onAttained
+INFO: Augmented all extensions
+Sep 11, 2020 3:06:51 PM jenkins.InitReactorRunner$1 onAttained
+INFO: System config loaded
+Sep 11, 2020 3:06:51 PM jenkins.InitReactorRunner$1 onAttained
+INFO: System config adapted
+Sep 11, 2020 3:06:51 PM jenkins.InitReactorRunner$1 onAttained
+INFO: Loaded all jobs
+Sep 11, 2020 3:06:51 PM jenkins.InitReactorRunner$1 onAttained
+INFO: Configuration for all jobs updated
+Sep 11, 2020 3:06:51 PM jenkins.InitReactorRunner$1 onAttained
+INFO: Completed initialization
+Sep 11, 2020 3:06:51 PM org.eclipse.jetty.server.Server doStart
+INFO: jetty-9.4.28.v20200408; built: 2020-04-08T17:49:39.557Z; git: ab228fde9e55e9164c738d7fa121f8ac5acd51c9; jvm 11.0.8+10-LTS
+Sep 11, 2020 3:06:51 PM org.eclipse.jetty.server.session.DefaultSessionIdManager doStart
+INFO: DefaultSessionIdManager workerName=node0
+Sep 11, 2020 3:06:51 PM org.eclipse.jetty.server.session.DefaultSessionIdManager doStart
+INFO: No SessionScavenger set, using defaults
+Sep 11, 2020 3:06:51 PM org.eclipse.jetty.server.session.HouseKeeper startScavenging
+INFO: node0 Scavenging every 600000ms
+Sep 11, 2020 3:06:51 PM org.eclipse.jetty.server.handler.ContextHandler doStart
+INFO: Started o.e.j.s.ServletContextHandler@4038cd3a{/,null,AVAILABLE}
+Sep 11, 2020 3:06:51 PM org.eclipse.jetty.server.AbstractConnector doStart
+INFO: Started ServerConnector@3f4cd155{HTTP/1.1, (http/1.1)}{0.0.0.0:58267}
+Sep 11, 2020 3:06:51 PM org.eclipse.jetty.server.Server doStart
+INFO: Started @8755ms
+Sep 11, 2020 3:06:54 PM org.eclipse.jetty.server.AbstractConnector doStop
+INFO: Stopped ServerConnector@3c1e3314{HTTP/1.1, (http/1.1)}{localhost:0}
+Sep 11, 2020 3:06:54 PM org.eclipse.jetty.server.session.HouseKeeper stopScavenging
+INFO: node0 Stopped scavenging
+Sep 11, 2020 3:06:54 PM org.eclipse.jetty.server.handler.ContextHandler doStop
+INFO: Stopped o.e.j.w.WebAppContext@294bdeb4{Jenkins v2.235.5,/,file:///C:/Workspace/web-page/target/jenkins-for-test/,UNAVAILABLE}{C:\Workspace\web-page\target\jenkins-for-test}
+Sep 11, 2020 3:06:54 PM jenkins.model.Jenkins cleanUp
+INFO: Stopping Jenkins
+Sep 11, 2020 3:06:54 PM jenkins.model.Jenkins cleanUp
+INFO: Jenkins stopped

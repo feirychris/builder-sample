@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<l:dependencies xmlns:l='licenses' groupId='org.jenkins-ci.plugins' artifactId='web-page' version='1.0-SNAPSHOT'><l:dependency name='web-page Jenkins Plugin' groupId='org.jenkins-ci.plugins' artifactId='web-page' version='1.0-SNAPSHOT' url='http://maven.apache.org'><l:description>The Jenkins Plugins Parent POM Project</l:description></l:dependency></l:dependencies>

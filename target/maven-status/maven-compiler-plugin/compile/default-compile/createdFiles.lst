@@ -1,0 +1,9 @@
+org\jenkinsci\plugins\Page.class
+Messages.class
+META-INF\annotations\hudson.Extension.txt
+org\jenkinsci\plugins\NewBuilder\DescriptorImpl\doCheckTime.stapler
+org\jenkinsci\plugins\NewBuilder.class
+META-INF\annotations\org.kohsuke.accmod.Restricted
+org\jenkinsci\plugins\NewBuilder.stapler
+org\jenkinsci\plugins\NewBuilder$DescriptorImpl.class
+META-INF\annotations\hudson.Extension

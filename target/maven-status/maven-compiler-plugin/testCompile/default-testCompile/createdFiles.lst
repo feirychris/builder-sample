@@ -1,0 +1,3 @@
+InjectedTest.class
+org\jenkinsci\plugins\PageTest.class
+org\jenkinsci\plugins\NewBuilderTest.class

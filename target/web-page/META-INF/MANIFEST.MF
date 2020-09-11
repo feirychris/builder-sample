@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Built-By: CBC2B44N
+Created-By: Apache Maven
+Build-Jdk: 11.0.8
+Extension-Name: web-page
+Specification-Title: The Jenkins Plugins Parent POM Project
+Implementation-Title: web-page
+Implementation-Version: 1.0-SNAPSHOT
+Group-Id: org.jenkins-ci.plugins
+Short-Name: web-page
+Long-Name: web-page Jenkins Plugin
+Url: http://maven.apache.org
+Minimum-Java-Version: 1.8
+Plugin-Version: 1.0-SNAPSHOT (private-09/11/2020 15:07-CBC2B44N)
+Hudson-Version: 2.235.5
+Jenkins-Version: 2.235.5
+Plugin-Developers: 
+Plugin-ScmUrl: https://github.com/jenkinsci/plugin-pom/web-page
+
