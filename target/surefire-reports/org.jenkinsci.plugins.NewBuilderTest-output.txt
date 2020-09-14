@@ -1,14 +1,14 @@
 === Starting checkSleepOutput(org.jenkinsci.plugins.NewBuilderTest)
-   0.019 [id=65]	INFO	o.jvnet.hudson.test.JenkinsRule#createWebServer: Running on http://localhost:58278/jenkins/
-   0.037 [id=78]	INFO	jenkins.InitReactorRunner$1#onAttained: Started initialization
-   0.039 [id=79]	INFO	jenkins.InitReactorRunner$1#onAttained: Listed all plugins
-   0.095 [id=77]	INFO	jenkins.InitReactorRunner$1#onAttained: Prepared all plugins
-   0.096 [id=77]	INFO	jenkins.InitReactorRunner$1#onAttained: Started all plugins
-   0.098 [id=83]	INFO	jenkins.InitReactorRunner$1#onAttained: Augmented all extensions
-   0.535 [id=79]	INFO	jenkins.InitReactorRunner$1#onAttained: System config loaded
-   0.536 [id=77]	INFO	jenkins.InitReactorRunner$1#onAttained: System config adapted
-   0.536 [id=82]	INFO	jenkins.InitReactorRunner$1#onAttained: Loaded all jobs
-   0.537 [id=84]	INFO	jenkins.InitReactorRunner$1#onAttained: Configuration for all jobs updated
-   0.558 [id=80]	INFO	jenkins.InitReactorRunner$1#onAttained: Completed initialization
-   1.511 [id=65]	INFO	jenkins.model.Jenkins#cleanUp: Stopping Jenkins
-   1.568 [id=65]	INFO	jenkins.model.Jenkins#cleanUp: Jenkins stopped
+   0.020 [id=65]	INFO	o.jvnet.hudson.test.JenkinsRule#createWebServer: Running on http://localhost:61191/jenkins/
+   0.040 [id=78]	INFO	jenkins.InitReactorRunner$1#onAttained: Started initialization
+   0.042 [id=78]	INFO	jenkins.InitReactorRunner$1#onAttained: Listed all plugins
+   0.107 [id=77]	INFO	jenkins.InitReactorRunner$1#onAttained: Prepared all plugins
+   0.109 [id=83]	INFO	jenkins.InitReactorRunner$1#onAttained: Started all plugins
+   0.111 [id=80]	INFO	jenkins.InitReactorRunner$1#onAttained: Augmented all extensions
+   0.437 [id=81]	INFO	jenkins.InitReactorRunner$1#onAttained: System config loaded
+   0.438 [id=81]	INFO	jenkins.InitReactorRunner$1#onAttained: System config adapted
+   0.439 [id=81]	INFO	jenkins.InitReactorRunner$1#onAttained: Loaded all jobs
+   0.439 [id=77]	INFO	jenkins.InitReactorRunner$1#onAttained: Configuration for all jobs updated
+   0.460 [id=79]	INFO	jenkins.InitReactorRunner$1#onAttained: Completed initialization
+   1.767 [id=65]	INFO	jenkins.model.Jenkins#cleanUp: Stopping Jenkins
+   1.830 [id=65]	INFO	jenkins.model.Jenkins#cleanUp: Jenkins stopped
