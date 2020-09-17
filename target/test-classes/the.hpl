@@ -4,10 +4,11 @@ Short-Name: web-page
 Long-Name: web-page Jenkins Plugin
 Url: http://maven.apache.org
 Minimum-Java-Version: 1.8
-Plugin-Version: 1.0-SNAPSHOT (private-dca70c01-CBC2B44N)
+Plugin-Version: 1.0-SNAPSHOT (private-09/15/2020 16:05-CBC2B44N)
 Hudson-Version: 2.235.5
 Jenkins-Version: 2.235.5
 Plugin-Developers: 
+Support-Dynamic-Loading: true
 Plugin-ScmUrl: https://github.com/jenkinsci/plugin-pom/web-page
 Libraries: C:\Workspace\web-page\src\main\resources,C:\Workspace\web-p
  age\target\classes
